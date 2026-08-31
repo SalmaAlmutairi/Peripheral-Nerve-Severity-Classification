@@ -8,6 +8,14 @@
 
 An explainable machine learning framework for classifying upper-extremity peripheral nerve impairment into four severity levels using Electromyography (EMG), Nerve Conduction Study (NCS), and integrated electrodiagnostic features.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Machine%20Learning-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Explainable%20AI-SHAP-purple">
+  <img src="https://img.shields.io/badge/Data-EMG%20%7C%20NCS-green">
+  <img src="https://img.shields.io/badge/Task-Multi--Class%20Classification-orange">
+  <img src="https://img.shields.io/badge/Research-Published-success">
+</p>
+
 ---
 
 ## 📌 Overview
