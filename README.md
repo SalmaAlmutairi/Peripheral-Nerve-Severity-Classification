@@ -93,7 +93,7 @@ The ensemble of **SVM, Random Forest, and TabPFN** achieved:
 - **AP Severe:** 100%
 
 <p align="center">
-  <img src="assets/ncs-tabpfn-confusion-matrix.png" alt="NCS TabPFN Test Confusion Matrix" width="70%">
+  <img src="assets/ncs-tabpfn-confusion-matrix.jpg" alt="NCS TabPFN Test Confusion Matrix" width="70%">
 </p>
 
 <p align="center">
