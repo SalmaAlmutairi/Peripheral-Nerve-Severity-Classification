@@ -129,26 +129,7 @@ Synthetic augmentation was applied only to training data to prevent data leakage
 
 Due to the small number of real paired records, the integrated analysis should be considered a **proof of concept** requiring validation on larger clinical cohorts.
 
----
 
-## 📁 Repository Structure
-
-```text
-Peripheral-Nerve-Severity-Classification/
-│
-├── notebooks/
-│   ├── EMG_RANDOM_FOREST_Explainable_AI.ipynb
-│   ├── EMG_SVM_Explainable_AI.ipynb
-│   ├── EMG_TabPFN_Explainable_AI.ipynb
-│   ├── EMG_Weighted_Soft_Voting_Ensemble.ipynb
-│   ├── Integrated_Random_Forest.ipynb
-│   ├── Integrated_SVM.ipynb
-│   ├── Integrated_TabPFN.ipynb
-│   └── NCS_TabPFN_Explainable_AI.ipynb
-│
-├── .gitignore
-└── README.md
-```
 
 ## 🛠️ Technologies
 
