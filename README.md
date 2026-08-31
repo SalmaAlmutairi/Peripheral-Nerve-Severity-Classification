@@ -190,7 +190,7 @@ This project resulted in a peer-reviewed research publication in **Neurological 
 
 ## 👥 Authors
 
-Alanoud S. Almakadi · Dana S. Alnemari · Nadine T. Alsahafi · Salma N. Almutairi · Sarah M. Sadik · Noura M. Alotaibi · Ali N. Alshammari
+Alanoud S. Almakadi · Dana S. Alnemari · Nadine T. Alsahafi · **Salma N. Almutairi** · Sarah M. Sadik · Noura M. Alotaibi · Ali N. Alshammari
 
 **Affiliation:** Computer Science and Artificial Intelligence Department, University of Jeddah, Jeddah, Saudi Arabia.
 
