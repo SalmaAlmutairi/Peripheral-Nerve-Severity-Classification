@@ -182,6 +182,12 @@ This project resulted in a peer-reviewed research publication in **Neurological 
 **Published online:** August 4, 2026  
 **DOI:** [10.1080/01616412.2026.2712459](https://doi.org/10.1080/01616412.2026.2712459)
 
+<p align="center">
+  <a href="https://doi.org/10.1080/01616412.2026.2712459">
+    <img src="https://img.shields.io/badge/View-Published%20Article-blue">
+  </a>
+</p>
+
 ## 👥 Authors
 
 Alanoud S. Almakadi · Dana S. Alnemari · Nadine T. Alsahafi · Salma N. Almutairi · Sarah M. Sadik · Noura M. Alotaibi · Ali N. Alshammari
