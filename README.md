@@ -116,6 +116,14 @@ Key findings included:
 
 This explainability component helps connect machine learning predictions with clinically meaningful electrodiagnostic characteristics.
 
+<p align="center">
+  <img src="assets/ncs-severe-shap.jpg" alt="NCS Severe Class SHAP Plot" width="75%">
+</p>
+
+<p align="center">
+  <em>SHAP summary plot for the Severe class using NCS features.</em>
+</p>
+
 ---
 
 ## 🔗 Multimodal EMG–NCS Analysis
