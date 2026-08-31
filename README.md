@@ -92,6 +92,14 @@ The ensemble of **SVM, Random Forest, and TabPFN** achieved:
 - **MCC:** 97.20%
 - **AP Severe:** 100%
 
+<p align="center">
+  <img src="assets/ncs-tabpfn-confusion-matrix.png" alt="NCS TabPFN Test Confusion Matrix" width="70%">
+</p>
+
+<p align="center">
+  <em>Confusion matrix of the final TabPFN model on the NCS test set.</em>
+</p>
+
 The results demonstrate the strong discriminative capability of NCS-derived features for peripheral nerve impairment severity classification.
 
 ---
