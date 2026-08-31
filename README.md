@@ -47,24 +47,15 @@ The data were derived from anonymized clinical electrodiagnostic records.
 
 ## ⚙️ Machine Learning Pipeline
 
-The project included:
+The study followed a structured machine learning workflow across EMG, NCS, and integrated EMG–NCS data.
 
-1. Data cleaning and preprocessing
-2. Categorical feature encoding
-3. Class-imbalance handling using class weighting
-4. Statistical feature selection
-5. Stratified train-test splitting
-6. Stratified 5-fold cross-validation
-7. Hyperparameter tuning
-8. Model evaluation
-9. Ensemble learning
-10. SHAP-based explainability
+<p align="center">
+  <img src="assets/methodology-workflow.png" alt="Machine Learning Methodology Workflow" width="85%">
+</p>
 
-Feature selection was performed using:
-
-- Kruskal–Wallis test
-- Chi-square test
-- Fisher Score ranking
+<p align="center">
+  <em>Overall methodology for data preprocessing, feature selection, model development, validation, and evaluation.</em>
+</p>
 
 ---
 
