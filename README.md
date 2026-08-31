@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/project-banner.png" alt="Peripheral Nerve Impairment Severity Classification" width="100%">
+</p>
+
 # 🧠 Peripheral Nerve Impairment Severity Classification
 
 ### Multi-Class Severity Classification of Peripheral Nerve Impairment Using Multimodal Electrodiagnostic Features and Explainable Machine Learning
